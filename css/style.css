@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.ticket-title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.answered {
+  font-size: 10px;
+  color: #ffffff;
+  background-color: #7079d6;
+  margin: 0px 0px 0px 5px;
+}
