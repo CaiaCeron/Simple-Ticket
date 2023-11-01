@@ -2,11 +2,12 @@
 Aplicação de helpdesk simples, criada PHP sem framework.
 
 ## Como usar:
-1. Fazer uma copia do repositorio para sua maquina;
+1. Fazer uma copia do repositorio para sua maquina na pasta htdocs criada pelo xampp em seu diretorio;
 2. Instalar Xammp ou Wampp para ter apache e MySQL em sua maquina;
 3. Acessar o painel phpMyadmin clicando em admin no Xammpp ou Wampp;
 4. Criar um DB avaliacao;
-5. Importar o backup avaliacao.sql, encontrado no diretorio Database do projeto;
+5. Importar o backup avaliacao.sql, encontrado no diretorio Database do projeto
+6. Para acessar a aplicação digite localhost/Simple Ticket no navegador de sua preferencia.
 
 ### Credenciais de Acesso admin:
 - email: admin@something.com
